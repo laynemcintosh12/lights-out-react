@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Board Component Rendering should match the snapshot for a full board 1`] = `
+<DocumentFragment>
+  <div
+    class="Board"
+  >
+    <h1>
+      Light Game
+    </h1>
+    <p>
+      You Won!
+    </p>
+  </div>
+</DocumentFragment>
+`;
